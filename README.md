@@ -1,5 +1,5 @@
 # OpenGL ES Android App
-It is a basic Android app which uses OpenGL ES API. I defined a triangle and created three triangles with different color and positions and I drew these triangles and rotated them. I applied projection and camera views so id you change the roation of the phone, the triangles don't skewed. Also if you swipe your finger on the screen, the triangles rotate where you swope.
+It is a basic Android app which uses OpenGL ES API. I defined a triangle class and created three triangles from this class with different colors and positions and I drew these triangles and rotated them. I applied projection and camera views so if you change the screen orientation of the device, the triangles aren't skewed. Also if you swipe your finger on the screen, the triangles rotate where you swiped to.
 
 You can run this project on your device by installing the [app-debug.apk](https://github.com/burhanelgun/OpenGL-ES-Android-Application/raw/master/app-debug.apk).
 
